@@ -5,6 +5,7 @@
 ##### H5 Title
 ###### H6 Title
 
+---
 
 >[!CAUTION]
 > This is a caution callout
@@ -21,3 +22,6 @@
 
 >[!WARNING]
 > This is a warning callout
+
+---
+
